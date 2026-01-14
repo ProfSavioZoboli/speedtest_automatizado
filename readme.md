@@ -32,7 +32,7 @@ Para rodar este script, você precisará de:
 2.  **Execução:**
     Basta rodar o arquivo principal:
     ```bash
-    python speedtest_monitor.py
+    python main.py
     ```
 
 3.  **Localização dos Resultados:**
