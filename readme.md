@@ -26,7 +26,7 @@ Para rodar este script, você precisará de:
 1.  **Clone o repositório:**
     ```bash
     git clone [https://github.com/ProfSavioZoboli/speedtest_automatizado.git](https://github.com/ProfSavioZoboli/speedtest_automatizado.git)
-    cd nome-do-repositorio
+    cd speedtest_automatizado
     ```
 
 2.  **Execução:**
